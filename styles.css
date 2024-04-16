@@ -1,0 +1,5 @@
+.heading{color: red;}
+.heading2{color: green;}
+li[value="4"]{font-weight: bold;}
+li[value="6"]{font-size: 30px;}
+#change-font-style{font-style: italic;}
